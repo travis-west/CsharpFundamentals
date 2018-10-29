@@ -1,0 +1,11 @@
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/bin/Debug/netcoreapp2.1/FundamentalsI.deps.json
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/bin/Debug/netcoreapp2.1/FundamentalsI.runtimeconfig.json
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/bin/Debug/netcoreapp2.1/FundamentalsI.runtimeconfig.dev.json
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/bin/Debug/netcoreapp2.1/FundamentalsI.dll
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/bin/Debug/netcoreapp2.1/FundamentalsI.pdb
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/obj/Debug/netcoreapp2.1/FundamentalsI.csprojAssemblyReference.cache
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/obj/Debug/netcoreapp2.1/FundamentalsI.csproj.CoreCompileInputs.cache
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/obj/Debug/netcoreapp2.1/FundamentalsI.AssemblyInfoInputs.cache
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/obj/Debug/netcoreapp2.1/FundamentalsI.AssemblyInfo.cs
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/obj/Debug/netcoreapp2.1/FundamentalsI.dll
+/Users/Travis/Library/Mobile Documents/com~apple~CloudDocs/CodingDojo/C#/FundamentalsI/obj/Debug/netcoreapp2.1/FundamentalsI.pdb
